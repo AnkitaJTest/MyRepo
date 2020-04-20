@@ -1,2 +1,6 @@
 # MyRepo
-Test repository to learn
+Test repository to learn 
+- spring boot micro services 
+- git
+- maven
+
